@@ -1,0 +1,4 @@
+requests
+lxml
+mysql-connector-repackaged
+schedule
